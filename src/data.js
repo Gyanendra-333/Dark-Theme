@@ -30,7 +30,7 @@ const dummyData = [
     section: "Entertainment",
     channel: "Trend TV",
     items: [
-                    {
+      {
         id: "92B37aXykYw",
         image: "https://img.youtube.com/vi/92B37aXykYw/maxresdefault.jpg",
         title: "Willie Jones STUNS Simon Cowell In Pitch Perfect Performance of 'Your Man'!",
@@ -44,7 +44,7 @@ const dummyData = [
         views: "33 million views",
         published: "Dec 8, 2013"
       },
-      
+
       {
         id: "bzkWFljIMVg",
         image: "https://img.youtube.com/vi/bzkWFljIMVg/maxresdefault.jpg",
